@@ -1,0 +1,11 @@
+google_client_id = 'xxx-xxx.apps.googleusercontent.com'
+google_client_secret ='xxx'
+
+authorize_url = 'https://accounts.google.com/o/oauth2/v2/auth'
+
+token_url = 'https://www.googleapis.com/oauth2/v4/token'
+
+
+base_url = 'http://localhost:5000/'
+
+user_info_url = 'https://www.googleapis.com/oauth2/v3/userinfo'
