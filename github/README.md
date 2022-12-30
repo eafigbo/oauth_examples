@@ -5,6 +5,7 @@
 
 Before running these examples, you will need the following:
 
+* See instructions in [oauth_examples README](../README.md)
 * A Github  Account, you can sign up for one at https://github.com/.
 * A Github Developer App with an OAuth 2.0 Client ID, configured for a Web application. This is done from the Github settings Console and you can find instructions [here]([https://developers.google.com/identity/protocols/oauth2](https://docs.github.com/en/developers/apps/building-oauth-apps/creating-an-oauth-app)). 
 
