@@ -5,6 +5,7 @@
 
 Before running these examples, you will need the following:
 
+* See instructions in [oauth_examples README](../README.md)
 * A Google Developer Account, you can sign up for one at https://developer.google.com/.
 * A Google Developer project with an OAuth 2.0 Client ID, configured for a Web application. This is done from the Google Developer Console and you can find instructions [here](https://developers.google.com/identity/protocols/oauth2). 
 
