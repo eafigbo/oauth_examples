@@ -12,7 +12,6 @@ Before running these examples, you will need the following:
 
 Now you need to gather the following information from the Google Developer Console that belongs to your front-end application:
 - **Client ID and Client Secret**  - The client ID and secret of the Web application that you created earlier. This can be found on the  right hand side of the screen when you are in the " Client ID for Web application " view . This identifies the application that tokens will be minted for.
-- **Client Secret** - This is the URL of the authorization server that will perform authentication.  All Developer Accounts have a "default" authorization server.  The issuer is a combination of your Org URL (found in the upper right of the console home page) and `/oauth2/default`. For example, `https://dev-1234.oktapreview.com/oauth2/default`.
 
 Copy the [`client_config.py.dist`](client_config.py.dist) to `client_config.py` and fill in the information you gathered as well as edit the other fields to suit your deployment scenario
 
