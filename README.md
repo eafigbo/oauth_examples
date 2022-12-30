@@ -9,3 +9,19 @@ It consists of the following examples:
 |------------------------------------|----------------------------|
 |[github](/github)       |Example of accessing Authenticating and accessing Github APIs using OAuth 2.0|  
 |[google](/google)   |Example of accessing Authenticating and accessing Google APIs using OAuth 2.0|
+
+## Running These Examples
+To run these examples, you first need to clone this repo and then enter into this directory:
+
+```bash
+git clone git@github.com:eafigbo/oauth_examples.git
+cd oauth_examples
+```
+
+Then install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+Follow the instructions in each project's README to run each example
+
